@@ -17,7 +17,40 @@
 - Implemented Sign Out Feature
 - Update Profile API Call
 - Fetch Movies from TMDB Movies Database API
-
+- BugFix: Sign Up user displayName and profile picture update
+- BugFix: If the user is not logged in Redirect /browse to Login Page and vice versa
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to the constants.js file. -- V.Imp
+- Register for TMDB API & Create an app & get access token
+- Get data from TMDB now playing movies list API
+- Custom Hook for Noe Playing Movies
+- Create movieSlice
+- Update Store with Movies Data
+- Planning for Main Conatiner and Secondary Container
+- Fetch Data for Trailer Video
+- Update Store with Trailer Video Data
+- Embedded the Youtube Video and make it autoplay and mute
+- Tailwind Classes to make the main container looks good
+- Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- Added TMDB Image CDN URL
+- Made the browse page look good using Tailwind CSS
+- usePopularMovies Custom Hooks
+- useTopRatedMovies Custom Hooks
+- useUpcomingMovies Custom Hooks
+- GPT Search Page Feature
+- GPT Search Bar
+- (FEATURE) Multi-language Feature in our App
+- Integrate GPT APIs(get openAI API key)
+- Gpt Search API Call
+- Feteched gptMoviesSuggestions from TMDB
+- Created gptSlice added data
+- Reused movie List component to make movie suggestion container
+- Memorization 
+- Adding .env file
+- Adding .env file to gitignore
+- Made our Site Responsive
 
 # Features
 
