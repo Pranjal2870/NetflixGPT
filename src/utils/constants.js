@@ -18,3 +18,10 @@ export const SUPPORTED_LANGUAGES = [{identifier: "en", name:"English"}, {identif
 
 export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY
 
+export const FIREBASE_KEY = process.env.REACT_APP_FIREBASE_KEY
+
+export const AUTH_DOMAIN = process.env.REACT_APP_AUTH_DOMAIN
+
+export const MESSAGING_SENDER_ID = process.env.REACT_APP_MESSAGING_SENDER_ID
+
+export const APPS_ID = process.env.REACT_APP_APPS_ID
